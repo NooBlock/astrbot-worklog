@@ -78,8 +78,8 @@
 
 > **证据路径说明**：文中出现的 `rag_corpora/…`、`install/…`、`astrbot/…` 等路径都指**原始工作区**
 > （未随本仓库发布，只作为可核对的来源）。其中 RAG 语料、构建/导入工具与使用 wiki 已单独整理成
-> 公开仓库 **`astrbot-rag-kb`**；原始交付文档收在本仓库 [`appendix/`](appendix/)，脱敏后的启动脚本收在
-> [`scripts/`](scripts/)。
+> 公开仓库 **[`astrbot-rag-kb`](https://github.com/NooBlock/astrbot-rag-kb)**；原始交付文档收在本仓库
+> [`appendix/`](appendix/)，脱敏后的启动脚本收在 [`scripts/`](scripts/)。
 
 ---
 
